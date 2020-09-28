@@ -1,7 +1,7 @@
 # XHeal
 Bukkit Plugin for Minecraft java 1.14.4
 
-**Xommands:**
+**Commands:**
 
 * /heal (Heal the player that runs the command)
 * /heal _Player-Name_ (Heal the targeted player)
